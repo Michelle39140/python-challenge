@@ -42,4 +42,4 @@ This Python assignment includes **2** Python Challenges, PyBank and PyPoll. Both
 #
 #### *Copyright*
 
-Trilogy Education Services © 2018. All Rights Reserved.
+Data Boot Camp © 2018. All Rights Reserved.
