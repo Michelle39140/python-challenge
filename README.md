@@ -39,7 +39,7 @@ This Python assignment includes **2** Python Challenges, PyBank and PyPoll. Both
   -------------------------
   ```
 
-
-## Copyright
+#
+#### *Copyright*
 
 Trilogy Education Services © 2018. All Rights Reserved.
