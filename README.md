@@ -1,6 +1,7 @@
 ## Background
 This Python assignment includes **2** Python Challenges, PyBank and PyPoll. Both of these challenges encompasses a real-world situation.
 
+**Language**: Python; **Packages used**: csv, os.
 ## PyBank
 * Analyzing the financial records of a company. 
 * Dataset: [budget_data.csv](PyBank/Resources/budget_data.csv). 
